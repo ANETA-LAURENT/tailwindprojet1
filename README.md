@@ -2,5 +2,5 @@ URL:  <a href="https://aneta-laurent.github.io/tailwindprojet1/" class="text-cen
                 >Card: mode day/night</a>
   
 
- <img src="Card.png" alt="Card"> 
+ <img src="card.jpg" alt="Card"> 
 
