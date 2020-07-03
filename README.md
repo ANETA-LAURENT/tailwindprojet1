@@ -3,4 +3,5 @@ URL:  <a href="https://aneta-laurent.github.io/tailwindprojet1/" class="text-cen
   
 
  <img src="card.jpg" alt="Card"> 
+<img src="card2.jpg" alt="Card2"> 
 
